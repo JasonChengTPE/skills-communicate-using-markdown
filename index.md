@@ -29,3 +29,6 @@ for i in range(1, 20): #df.shape[0]):
     if df.iloc[i+1, 高] > df.iloc[i, 高]:
         print(df.iloc[i+1, 日], '過前日高', df.iloc[i, 高], '<--', df.iloc[i+1, 高])
 ```
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
