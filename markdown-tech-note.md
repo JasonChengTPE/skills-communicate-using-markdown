@@ -1,4 +1,4 @@
-# markdown 技術栽要
+# markdown 技術摘要
 
 ###### index.md 完成後，或者 repository 由 private 改回 public 都需要完成以下步驟，才能使 index.md 被公開檢視
 
